@@ -1,12 +1,7 @@
-class ContaCorrente:
-    def __init__(self, codigo):
-        self.codigo = codigo
-        self.saldo = 0
+from conta import Conta
 
-    def deposita(self, valor):
-        self.saldo += valor
-
-    def __str__(self):
-        return f"Codigo:{self.codigo} Saldo:{self.saldo}"
+class ContaCorrente(Conta):
+    def passa_o_mes(self):
+        self._saldo -= 2
 
 

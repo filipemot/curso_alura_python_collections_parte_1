@@ -23,3 +23,8 @@
 - Fazer tupla de listas;
 - Diferença entre programação orientada a objetos e funcional;
 - Fazer uma lista de tuplas.
+- Conceito de herança e polimorfismo;
+- Herdar classe;
+- O que é o duck typing;
+- Fazer um array no Python;
+- Fazer anotações.
