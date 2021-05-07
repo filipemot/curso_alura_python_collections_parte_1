@@ -35,3 +35,6 @@
 - Como funciona a função range;
 - Desempacotar tuplas;
 - Utilizar a função len.
+- Utilizar a função sorted para fazer a ordenação sem mudar o conteúdo na lista original;
+- Usar a função sort para ordenar atribuindo e mudando a lista original;
+- Utilizar a função reversed que ordena do maior para o menor sem alterar a lista original.
