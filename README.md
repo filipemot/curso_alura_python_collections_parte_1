@@ -42,3 +42,5 @@
 - Ordenar e comparar objetos;
 - Utilizar o attrgetter
 - Usar o __lt__: menor que (less than) para comparações;
+- Utilizar vários atributos com o attrgetter;
+- O que é total_ordering e functools.
