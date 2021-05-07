@@ -12,3 +12,7 @@ class ContaSalario():
     def __eq__(self, other):
         return self._codigo == other._codigo  and self._saldo == other._saldo
 
+    def __lt__(self, other):
+        return self._saldo < other._saldo
+
+

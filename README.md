@@ -38,3 +38,7 @@
 - Utilizar a função sorted para fazer a ordenação sem mudar o conteúdo na lista original;
 - Usar a função sort para ordenar atribuindo e mudando a lista original;
 - Utilizar a função reversed que ordena do maior para o menor sem alterar a lista original.
+- O que é ordem natural;
+- Ordenar e comparar objetos;
+- Utilizar o attrgetter
+- Usar o __lt__: menor que (less than) para comparações;
