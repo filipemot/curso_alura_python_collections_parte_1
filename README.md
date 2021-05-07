@@ -28,3 +28,10 @@
 - O que é o duck typing;
 - Fazer um array no Python;
 - Fazer anotações.
+- Utilizar o __eq__;
+- Utilizar boas práticas para comparação ;
+- Usar o isinstance para verificar se uma instância de um objeto;
+- O que são enumerated;
+- Como funciona a função range;
+- Desempacotar tuplas;
+- Utilizar a função len.
